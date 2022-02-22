@@ -32,3 +32,8 @@ This will  contains the study materials for learning Python from basic to advanc
      * OOPs
 ### 3. NUMPY
 ### 4. PANDAS
+
+
+**FOR DETAILED SYLLABUS PLEASE SEE** [01 Python Course Content.ipynb](https://github.com/anuls2020/Python-Programming-Core-and-Advanced-/blob/84dae6718826f6c3b2f68e913f0e199770e7bc08/01%20Python%20Course%20Content.ipynb)
+
+
